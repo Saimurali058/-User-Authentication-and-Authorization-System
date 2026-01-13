@@ -1,7 +1,7 @@
-# -User-Authentication-and-Authorization-System
-User Authentication and Authorization System built using Spring Boot, Spring Security, and JWT
+
 
 # User Authentication and Authorization System
+User Authentication and Authorization System built using Spring Boot, Spring Security, and JWT
 
 ## 📌 Overview
 This project is a **User Authentication and Authorization System** developed using **Spring Boot** and **Spring Security**, designed to provide secure, scalable, and stateless authentication for modern web applications. The system follows industry-standard security practices and RESTful architecture.
